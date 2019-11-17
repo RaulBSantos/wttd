@@ -1,0 +1,10 @@
+- basic
+    - string1 
+    - list1 
+    - string2 
+    - list2 
+    - mimic 
+    - wordcount
+- babynames
+- logpuzzle
+- copyspecial

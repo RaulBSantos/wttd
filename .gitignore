@@ -1,6 +1,9 @@
 .python-version
 *.pyc
 
+google-python-exercises/.DS_Store
+#google-python-exercises/ordem.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
