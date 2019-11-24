@@ -1,10 +1,10 @@
 - basic
-    - string1 
-    - list1 
-    - string2 
-    - list2 
-    - mimic 
-    - wordcount
+    - string1 ok
+    - list1 ok
+    - string2 ok
+    - list2 ko
+    - mimic ok
+    - wordcount 
 - babynames
 - logpuzzle
 - copyspecial
