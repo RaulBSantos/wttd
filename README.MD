@@ -2,6 +2,9 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/RaulBSantos/wttd.svg?branch=master)](https://travis-ci.org/RaulBSantos/wttd)
+[![Maintainability](https://api.codeclimate.com/v1/badges/73bcfeaf2288ade943da/maintainability)](https://codeclimate.com/github/RaulBSantos/wttd/maintainability)
+
 ## Como desenvolver?
 
 1. Clone o repositório
