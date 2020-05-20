@@ -28,4 +28,6 @@ jobs:
     - name: Run Tests
       run: |
         cp contrib/env-sample .env
+        python manage.py collectstatic
         python manage.py test
+        
